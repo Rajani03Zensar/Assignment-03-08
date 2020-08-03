@@ -1,0 +1,7 @@
+D:\Dot net\DotnetConsoleApps\InterfaceAssignment\InterfaceAssignment\bin\Debug\InterfaceAssignment.exe.config
+D:\Dot net\DotnetConsoleApps\InterfaceAssignment\InterfaceAssignment\bin\Debug\InterfaceAssignment.exe
+D:\Dot net\DotnetConsoleApps\InterfaceAssignment\InterfaceAssignment\bin\Debug\InterfaceAssignment.pdb
+D:\Dot net\DotnetConsoleApps\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.csprojAssemblyReference.cache
+D:\Dot net\DotnetConsoleApps\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.csproj.CoreCompileInputs.cache
+D:\Dot net\DotnetConsoleApps\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.exe
+D:\Dot net\DotnetConsoleApps\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.pdb
